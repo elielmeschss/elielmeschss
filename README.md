@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fron-end Developer
 ------------------
 
-Sou desenvolvedor Full-stack com experiência em Desenvolvimento Web Front-End, utilizando as linguagens JavaScript, TypeScript e frameworks como Bootstrap e Node.Js. Atualmente estou focado em desenvolvimento React juntamente com os frameworks node.js, vue.js. e next.js. Possuindo também outros conhecimentos em jquery, firebase, Express, git, mongodb, angular, POO e com o padrão de arquitetura de software MVC.Sou desenvolvedor Full-stack com experiência em Desenvolvimento Web Front-End, utilizando as linguagens JavaScript, TypeScript e frameworks como Bootstrap e Node.Js. Atualmente estou focado em desenvolvimento React juntamente com os frameworks node.js, vue.js. e next.js. Possuindo também outros conhecimentos em jquery, firebase, Express, git, mongodb, angular, POO e com o padrão de arquitetura de software MVC.
+I am a Full-stack developer with experience in Front-End Web Development using JavaScript, TypeScript and frameworks like Bootstrap and Node.Js. 
+
+Currently I'm focused on React development along with node.js, vue.js. and next.js frameworks. I also have other knowledge in jquery, firebase, Express, git, mongodb, angular, POO and the MVC software architecture pattern.
 
 * 🌍  Gaspar, Santa Catarina - Brazil
 * ✉️  [elielmeschss@gmail.com](mailto:elielmeschss@gmail.com)
-* 🧠  Análise e Desenvolvimento de Sistemas - Univali
+* 🧠  Systems Analysis and Development - Universidade do Vale do Itajaí - UNIVALI
 
 ### Skills
 
