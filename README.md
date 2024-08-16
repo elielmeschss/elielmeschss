@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Software Engneer
 ------------------
+4+ years developing solutions!
 
 I'm currently involved in developing React/Next.js applications, creating functionalities, designing personal and professional websites and developing e-commerce solutions using Vtex.io and other platforms.
 
