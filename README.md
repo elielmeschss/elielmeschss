@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Software Engneer
 ------------------
 
-I am currently engaged in the development of React/Next.js applications, the creation of functionalities, the design of personal and professional websites, the development of ecommerce solutions through Vtex.io and other platforms.
+I'm currently involved in developing React/Next.js applications, creating functionalities, designing personal and professional websites and developing e-commerce solutions using Vtex.io and other platforms.
 
-I have also had the opportunity to contribute to the development of middlewares and ERP systems using Node.js.
+I've also had the opportunity to contribute to the development of middleware and ERP systems using Node.js.
 
-I have extensive experience in front-end development and in various style libraries, including Bootstrap, Tailwind, Material.UI and many others. I also have experience working with database manipulation, including MongoDB, PostgreSQL and Prisma.IO.
+I have extensive experience in front-end development and various style libraries, including Bootstrap, Tailwind, Material.UI and many others. I also have experience working with database manipulation, including MongoDB, PostgreSQL and Prisma.IO.
 
 * 🌍  Gaspar, Santa Catarina - Brazil
 * ✉️  [elielmeschss@gmail.com](mailto:elielmeschss@gmail.com)
